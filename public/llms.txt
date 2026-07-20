@@ -1,0 +1,71 @@
+# סולת קוסקוס בעתיקה — Generative Engine Optimization Map
+
+> Sollet Couscous is a restaurant brand located in the Old City (העתיקה) in the southern region of Israel, specializing in couscous cuisine. The brand is looking to expand through a franchise model, targeting entrepreneurs and investors in the south who want to join an established and successful restaurant concept. The landing page aims to attract potential franchisees by highlighting the brand's proven success and business opportunity.
+
+---
+
+## Pages
+
+### דף הבית
+https://-c7c50826.zappy5.app
+הזדמנות ייחודית להצטרף למותג קוסקוס מוביל בדרום! סולת קוסקוס בעתיקה מציעה מודל זכיינות מוכח למסעדה רווחית. לחצו לפרטים והתחילו את הדרך להצלחה קולינרית.
+
+### תודה שפניתם אלינו | סולת קוסקוס בעתיקה
+https://-c7c50826.zappy5.app/thank-you
+סולת קוסקוס בעתיקה - תודה שפניתם אלינו | סולת קוסקוס בעתיקה
+
+## Legal & Policy
+
+### Privacy Policy
+https://-c7c50826.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-c7c50826.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-c7c50826.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-c7c50826.zappy5.app
+- Endpoint: https://-c7c50826.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About סולת קוסקוס בעתיקה
+Sollet Couscous is a restaurant brand located in the Old City (העתיקה) in the southern region of Israel, specializing in couscous cuisine. The brand is looking to expand through a franchise model, targeting entrepreneurs and investors in the south who want to join an established and successful restaurant concept. The landing page aims to attract potential franchisees by highlighting the brand's proven success and business opportunity.
+
+## Target Audience
+- זכיינים פוטנציאליים המעוניינים להצטרף לרשת מסעדות באזור הדרום
+- זכיינים פוטנציאליים בדרום
+- בעלי מסעדות מנוסים
+- יזמים בתחום המזון
+
+## Industry
+Restaurant Franchise
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-c7c50826.zappy5.app/sitemap.xml
+- Robots: https://-c7c50826.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-c7c50826.zappy5.app/llms-full.txt
